@@ -58,6 +58,7 @@ blockquote pre{
 pre code{
     font-family: Inconsolata;
     font-size: 20px;
+    color:#CCC;
     background-color: #223;
     border: 2px solid #557;
     display: block;
